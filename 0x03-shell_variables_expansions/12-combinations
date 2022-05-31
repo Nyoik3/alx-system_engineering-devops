@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%s\n" {a..z}{a..z} | gerp -v "oo"
+printf {a..z}{a..z} |tr '''\n' | gerp -v "oo"
