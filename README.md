@@ -1,1 +1,1 @@
-web stack debugging
+structured query language.
